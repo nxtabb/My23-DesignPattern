@@ -1,4 +1,4 @@
-package 单例设计模式.静态内部类;
+package 创建型模式.单例设计模式.静态内部类;
 
 public class Singleton {
     private static class SingletonHolder{
