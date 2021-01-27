@@ -1,0 +1,16 @@
+[DEBUG][2021-01-27][结构型模式.适配器设计模式.类适配器设计模式.Source]editTextFile1 方法生效了
+[INFO][2021-01-27][结构型模式Test.适配器设计模式Test.类适配器设计模式Test.Adapter]editTextFile2 方法生效了
+[DEBUG][2021-01-27][结构型模式.适配器设计模式.类适配器设计模式.Source]editTextFile1 方法生效了
+[INFO][2021-01-27][结构型模式.适配器设计模式.类适配器设计模式.Adapter]editTextFile2 方法生效了
+[INFO][2021-01-27][结构型模式.适配器设计模式.对象适配器设计模式.Source]editTextFile1 执行了
+[INFO][2021-01-27][结构型模式.适配器设计模式.对象适配器设计模式.ObjectAdapter]editTextFile2 执行了
+[INFO][2021-01-27][结构型模式.适配器设计模式.对象适配器设计模式.Source]editTextFile1 执行了
+[INFO][2021-01-27][结构型模式.适配器设计模式.对象适配器设计模式.ObjectAdapter]editTextFile2 执行了
+[INFO][2021-01-27][结构型模式.适配器设计模式.接口适配器设计模式.InterFaceAdapter1]InterFaceAdapter1 实现了
+[INFO][2021-01-27][结构型模式.适配器设计模式.接口适配器设计模式.InterFaceAdapter2]InterFaceAdapter2 实现了
+[INFO][2021-01-27][结构型模式.适配器设计模式.接口适配器设计模式.InterFaceAdapter1]InterFaceAdapter1 实现了
+[INFO][2021-01-27][结构型模式.适配器设计模式.接口适配器设计模式.InterFaceAdapter2]InterFaceAdapter2 实现了
+[INFO][2021-01-27][结构型模式.适配器设计模式.接口适配器设计模式.InterFaceAdapter1]InterFaceAdapter1 实现了
+[INFO][2021-01-27][结构型模式.适配器设计模式.接口适配器设计模式.InterFaceAdapter2]InterFaceAdapter2 实现了
+[INFO][2021-01-27][结构型模式.适配器设计模式.接口适配器设计模式.InterFaceAdapter1]InterFaceAdapter1 实现了
+[INFO][2021-01-27][结构型模式.适配器设计模式.接口适配器设计模式.InterFaceAdapter2]InterFaceAdapter2 实现了
