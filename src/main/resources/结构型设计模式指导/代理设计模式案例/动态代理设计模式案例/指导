@@ -1,0 +1,5 @@
+动态代理设计模式核心需要一个接口、以及被代理的对象，使用InvocationHandler类来实现动态代理。
+具体做法是定义一个handler类，实现InvocationHandler接口，重写invoke方法。
+在该handler类中定一个Object类型的target代表要生成的代理对象，
+自定一个getProxy方法，通过Proxy类的静态方法newProxyInstance来得到具体的代理对象，再用代理对象调用接口中的方法
+即实现了动态代理
